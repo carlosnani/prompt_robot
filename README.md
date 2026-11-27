@@ -10,9 +10,8 @@ O assistente conduz a criação do prompt fazendo uma pergunta por vez. Você re
 
 Algumas imagens de exemplo geradas com prompts criados a partir deste fluxo:
 
-| Paisagem ao amanhecer | Zebra estilizada | Alien em estética synthwave |
-| --- | --- | --- |
-| ![Praia ao nascer do sol](imgs/Sunrise_viewed_from_beach_f0c28de4.jpg) | ![Zebra usando óculos e casaco](imgs/Zebra_head_wearing_coat_31e286d6.jpg) | ![Alien em cenário synthwave](imgs/Gray_alien_staring_into_camera_2d97f906.jpg) |
+| [![Hambúrguer artesanal em fotografia de estúdio](imgs/Gigantic_artisanal_burger_studio…_8b9a5249.jpg)](imgs/Gigantic_artisanal_burger_studio…_8b9a5249.jpg)<br>Hambúrguer artesanal | [![Alien em cenário synthwave](imgs/Gray_alien_staring_into_camera_2d97f906.jpg)](imgs/Gray_alien_staring_into_camera_2d97f906.jpg)<br>Alien synthwave | [![Mulher em rua urbana chuvosa](imgs/Hyper-realistic,_cinematic_medium_shot_with_dfb93733.jpg)](imgs/Hyper-realistic,_cinematic_medium_shot_with_dfb93733.jpg)<br>Retrato cinematográfico | [![Astronauta em campo de girassóis](imgs/image.png_87cb1b2f.jpg)](imgs/image.png_87cb1b2f.jpg)<br>Astronauta entre girassóis |
+| [![Mulher punk segurando uma arma de ficção](imgs/Punk_woman_holding_large_gun_007a1c68.jpg)](imgs/Punk_woman_holding_large_gun_007a1c68.jpg)<br>Personagem punk | [![Praia ao nascer do sol](imgs/Sunrise_viewed_from_beach_f0c28de4.jpg)](imgs/Sunrise_viewed_from_beach_f0c28de4.jpg)<br>Amanhecer na praia | [![Mulher pensativa ao entardecer](imgs/Woman_pressing_hand_face_89e003c6.jpg)](imgs/Woman_pressing_hand_face_89e003c6.jpg)<br>Retrato emocional | [![Zebra usando óculos e casaco](imgs/Zebra_head_wearing_coat_31e286d6.jpg)](imgs/Zebra_head_wearing_coat_31e286d6.jpg)<br>Zebra estilizada |
 
 ## O que ele ajuda a definir
 
