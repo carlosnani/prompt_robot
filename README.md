@@ -6,6 +6,14 @@ Um prompt interativo para transformar uma ideia em uma descrição visual detalh
 
 O assistente conduz a criação do prompt fazendo uma pergunta por vez. Você responde com suas preferências ou pula qualquer item que não se aplique. Ao final, ele reúne as escolhas em um parágrafo detalhado, escrito em inglês, com foco em uma imagem de alta qualidade.
 
+## Exemplos de imagens
+
+Algumas imagens de exemplo geradas com prompts criados a partir deste fluxo:
+
+| Paisagem ao amanhecer | Zebra estilizada | Alien em estética synthwave |
+| --- | --- | --- |
+| ![Praia ao nascer do sol](imgs/Sunrise_viewed_from_beach_f0c28de4.jpg) | ![Zebra usando óculos e casaco](imgs/Zebra_head_wearing_coat_31e286d6.jpg) | ![Alien em cenário synthwave](imgs/Gray_alien_staring_into_camera_2d97f906.jpg) |
+
 ## O que ele ajuda a definir
 
 - **Tema principal:** o assunto ou a cena que deve aparecer na imagem.
