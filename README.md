@@ -40,7 +40,7 @@ As opções sugeridas em cada etapa servem como inspiração; você também pode
 
 ## Como usar
 
-1. Abra [`prompt mestre.md`](prompt%20mestre.md) e copie o conteúdo.
+1. Abra [`prompt mestre.md`](prompt_mestre.md) e copie o conteúdo.
 2. Cole o texto nas instruções de um assistente de IA capaz de seguir prompts, ou envie-o como a primeira mensagem de uma conversa.
 3. Responda às perguntas uma por vez. Para deixar um campo em branco, diga que ele não se aplica ou que deseja pular.
 4. Quando o assistente perguntar sobre detalhes adicionais, inclua o que ainda não foi coberto ou indique que não há mais nada.
