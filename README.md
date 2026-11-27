@@ -10,8 +10,20 @@ O assistente conduz a criação do prompt fazendo uma pergunta por vez. Você re
 
 Algumas imagens de exemplo geradas com prompts criados a partir deste fluxo:
 
-| [![Hambúrguer artesanal em fotografia de estúdio](imgs/Gigantic_artisanal_burger_studio…_8b9a5249.jpg)](imgs/Gigantic_artisanal_burger_studio…_8b9a5249.jpg)<br>Hambúrguer artesanal | [![Alien em cenário synthwave](imgs/Gray_alien_staring_into_camera_2d97f906.jpg)](imgs/Gray_alien_staring_into_camera_2d97f906.jpg)<br>Alien synthwave | [![Mulher em rua urbana chuvosa](imgs/Hyper-realistic,_cinematic_medium_shot_with_dfb93733.jpg)](imgs/Hyper-realistic,_cinematic_medium_shot_with_dfb93733.jpg)<br>Retrato cinematográfico | [![Astronauta em campo de girassóis](imgs/image.png_87cb1b2f.jpg)](imgs/image.png_87cb1b2f.jpg)<br>Astronauta entre girassóis |
-| [![Mulher punk segurando uma arma de ficção](imgs/Punk_woman_holding_large_gun_007a1c68.jpg)](imgs/Punk_woman_holding_large_gun_007a1c68.jpg)<br>Personagem punk | [![Praia ao nascer do sol](imgs/Sunrise_viewed_from_beach_f0c28de4.jpg)](imgs/Sunrise_viewed_from_beach_f0c28de4.jpg)<br>Amanhecer na praia | [![Mulher pensativa ao entardecer](imgs/Woman_pressing_hand_face_89e003c6.jpg)](imgs/Woman_pressing_hand_face_89e003c6.jpg)<br>Retrato emocional | [![Zebra usando óculos e casaco](imgs/Zebra_head_wearing_coat_31e286d6.jpg)](imgs/Zebra_head_wearing_coat_31e286d6.jpg)<br>Zebra estilizada |
+<table>
+	<tr>
+		<td align="center" width="25%"><a href="imgs/Gigantic_artisanal_burger_studio…_8b9a5249.jpg"><img src="imgs/Gigantic_artisanal_burger_studio…_8b9a5249.jpg" alt="Hambúrguer artesanal em fotografia de estúdio" width="180"></a><br>Hambúrguer artesanal</td>
+		<td align="center" width="25%"><a href="imgs/Gray_alien_staring_into_camera_2d97f906.jpg"><img src="imgs/Gray_alien_staring_into_camera_2d97f906.jpg" alt="Alien em cenário synthwave" width="180"></a><br>Alien synthwave</td>
+		<td align="center" width="25%"><a href="imgs/Hyper-realistic,_cinematic_medium_shot_with_dfb93733.jpg"><img src="imgs/Hyper-realistic,_cinematic_medium_shot_with_dfb93733.jpg" alt="Mulher em rua urbana chuvosa" width="180"></a><br>Retrato cinematográfico</td>
+		<td align="center" width="25%"><a href="imgs/image.png_87cb1b2f.jpg"><img src="imgs/image.png_87cb1b2f.jpg" alt="Astronauta em campo de girassóis" width="180"></a><br>Astronauta entre girassóis</td>
+	</tr>
+	<tr>
+		<td align="center" width="25%"><a href="imgs/Punk_woman_holding_large_gun_007a1c68.jpg"><img src="imgs/Punk_woman_holding_large_gun_007a1c68.jpg" alt="Mulher punk segurando uma arma de ficção" width="180"></a><br>Personagem punk</td>
+		<td align="center" width="25%"><a href="imgs/Sunrise_viewed_from_beach_f0c28de4.jpg"><img src="imgs/Sunrise_viewed_from_beach_f0c28de4.jpg" alt="Praia ao nascer do sol" width="180"></a><br>Amanhecer na praia</td>
+		<td align="center" width="25%"><a href="imgs/Woman_pressing_hand_face_89e003c6.jpg"><img src="imgs/Woman_pressing_hand_face_89e003c6.jpg" alt="Mulher pensativa ao entardecer" width="180"></a><br>Retrato emocional</td>
+		<td align="center" width="25%"><a href="imgs/Zebra_head_wearing_coat_31e286d6.jpg"><img src="imgs/Zebra_head_wearing_coat_31e286d6.jpg" alt="Zebra usando óculos e casaco" width="180"></a><br>Zebra estilizada</td>
+	</tr>
+</table>
 
 ## O que ele ajuda a definir
 
