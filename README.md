@@ -48,7 +48,7 @@ As opções sugeridas em cada etapa servem como inspiração; você também pode
 
 ## Dicas
 
-- Descreva o tema principal com elementos concretos, como sujeitos, cenário e ação.
+- Descreva o tema principal com elementos concretos, como sujeitos, cenário e ação em detalhes.
 - Para ter mais controle, especifique detalhes importantes nas respostas em vez de depender apenas das opções sugeridas.
 - Nem toda referência de câmera ou lente é útil para todos os estilos. Pule esse campo quando não fizer sentido para a imagem.
 - O resultado é um prompt textual; a geração da imagem acontece em uma ferramenta de imagens separada.
